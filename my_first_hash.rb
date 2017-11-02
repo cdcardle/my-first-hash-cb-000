@@ -8,9 +8,6 @@ def shipping_manifest
   shipping_manifest["whale bone corset"] = 5
   shipping_manifest["porcelain vases"] =  2
   shipping_manifest["oil paintings"] = 3
-  #We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
-
-
 end
 
 def retrieval
